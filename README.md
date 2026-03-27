@@ -1,6 +1,6 @@
 # Character Consistency in Generative Image Models
 
-This repository contains the paper "Character Consistency in Generative Image Models"
+This repository contains the paper  "Charakterkonsistenz eines Kuscheltiers bei Stil-, Hintergrund- und Posentransfer mit Stable Diffusion XL"
 
 written as part of my master's research project at Stuttgart Media University.
 
